@@ -71,4 +71,7 @@ Future improvements could include:
 
 ---
 
-👨‍💻 Developed by [SHARATH S] [SIDDARAM MAINDARGI] [VENU MADHAV K T]  
+👨‍💻 Developed by
+[SHARATH S] 
+[SIDDARAM MAINDARGI] 
+[VENU MADHAV K T]  
